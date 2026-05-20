@@ -5,11 +5,11 @@ This project shows flight activity in the United States in 2015. It explains how
 The dashboard gives an overview of flight performance across cities and airlines, helping viewers quickly see delay patterns and cancellation reasons.
 
 🛠 Tech Stack
-Power BI Desktop — used to build the dashboard
-Power Query — used to clean and transform the data
-DAX — used to create calculations and measures
-Data Modeling — used to connect tables and build relationships
-CSV Files — used as the data format
+Power BI Desktop - used to build the dashboard
+Power Query - used to clean and transform the data
+DAX - used to create calculations and measures
+Data Modeling - used to connect tables and build relationships
+CSV Files - used as the data format
 
 📂 Data Source
 The data comes from a public dataset shown in an online tutorial video.
